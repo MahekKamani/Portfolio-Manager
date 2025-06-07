@@ -6,19 +6,6 @@ This is a __learning project__ and it showcases the implementation of several so
 
 In a real-world scenario, these practices should be chosen based on the specific requirements of each project.
 
-
- 
-<h2>Demo 🚀</h2>
-
-<h5>Home page</h5>
-
-![Home -](https://github.com/SaraRasoulian/DotNet-Vue-Portfolio-Website/assets/51083712/b2872aeb-51c0-4452-8e6d-f7df9892b33c)
-
-<h5>Admin panel</h5>
-
-![Admin new](https://github.com/SaraRasoulian/DotNet-Vue-Portfolio-Website/assets/51083712/dbd59886-8985-4481-8e93-1dedbf5b2219)
-
-
 <h4>Admin Panel Sections </h4>
 
 * Profile
@@ -28,20 +15,6 @@ In a real-world scenario, these practices should be chosen based on the specific
 * Messages
 * Login
 * Change password
-
-<details>
-
-<summary>Screenshots of Admin Panel 📸</summary>
-
-
-![Login page](https://github.com/SaraRasoulian/.Net-Vue-Portfolio/assets/51083712/a323b561-3f06-4b10-9335-6c9579960bec)
-
-![Social links page](https://github.com/SaraRasoulian/.Net-Vue-Portfolio/assets/51083712/8e4fbea7-fe34-4f85-b73f-3f0145085dfb)
-
-![Messages page](https://github.com/SaraRasoulian/.Net-Vue-Portfolio/assets/51083712/e92fd6a6-6ea2-422b-813c-0f8bad2c119d)
-
-
-![Admin panel - Mobile](https://github.com/SaraRasoulian/.Net-Vue-Portfolio/assets/51083712/81ad5b85-9777-4108-b9e9-8a2b6abb9845)
 
 
 </details>
